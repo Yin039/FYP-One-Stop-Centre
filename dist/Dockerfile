@@ -1,2 +1,2 @@
 FROM tomcat:9.0
-COPY yourapp.war /usr/local/tomcat/webapps/
+COPY FYP.war /usr/local/tomcat/webapps/
